@@ -2,7 +2,7 @@
     ──「 𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𝗞𝗜𝗡𝗚 𝗫 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 」──
 
 <p align="center">
-<a href="https://github.com/WCGKING/KINGUSERBOT"><img src="https://te.legra.ph/file/11cfa74175b590014bd16.jpg" height="270" width="480" alt="Branded-Userbot"/></a>
+<a href="https://github.com/itzhgup67/KINGUSERBOT"><img src="https://te.legra.ph/file/11cfa74175b590014bd16.jpg" height="270" width="480" alt="Branded-Userbot"/></a>
 </p>
 
 <h2 align="center">
@@ -24,11 +24,11 @@
 <h3 align="center">
      ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/WCGKING/KINGUSERBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/itzhgup67/KINGUSERBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
-[![GIF](https://github.com/WCGKING/WCGKING/blob/main/WCGKING.gif)](https://github.com/WCGKING)
-   [![𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗞𝗜𝗡𝗚 ](https://github-stats-alpha.vercel.app/api?username=WCGKING "WCGKING")](https://github-stats-alpha.vercel.app/api?username=WCGKING "WCGKING")
+[![GIF](https://github.com/itzhgup67/itzhgup67/blob/main/itzhgup67.gif)](https://github.com/itzhgup67)
+   [![𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗞𝗜𝗡𝗚 ](https://github-stats-alpha.vercel.app/api?username=itzhgup67 "itzhgup67")](https://github-stats-alpha.vercel.app/api?username=itzhgup67 "itzhgup67")
 
 
 <h3 align="center">
